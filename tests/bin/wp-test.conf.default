@@ -1,0 +1,13 @@
+## Config file for the testing environment
+
+# The name of the test database (all data will be deleted!)
+DB_NAME=wordpress_test
+# The MySQL user name
+DB_USER=root
+# The MySQL user password
+DB_PASS=
+# The MySQL server host
+DB_HOST=127.0.0.1
+# The WordPress version; could also be 3.7, 3.6.2 etc.
+# default is latest
+WP_VERSION=latest 
